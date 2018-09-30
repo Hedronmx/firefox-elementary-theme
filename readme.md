@@ -2,7 +2,7 @@
 
 ## Forked to support OS X-style window controls
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_2.png)
 
 This userChrome.css mimics the [elementary GTK+ theme](https://github.com/elementary/stylesheet) to make firefox blend in better in elementary OS.
 
