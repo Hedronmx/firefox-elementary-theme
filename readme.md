@@ -1,8 +1,12 @@
 # An elementary Theme for Firefox Quantum
 
-![Screenshot](screenshot@2x.png)
+## Forked to support OS X-style window controls
+
+![Screenshot](screenshot.png)
 
 This userChrome.css mimics the [elementary GTK+ theme](https://github.com/elementary/stylesheet) to make firefox blend in better in elementary OS.
+
+I don't understand Firefox styling well enough to be able to support both window control styles, which is why this hasn't been merged back up stream. Install the two versions as separate themes.
 
 ## How to use
 1. Go to [about:support](about:support) in Firefox
